@@ -3,7 +3,7 @@
 
 Usage:
 ```
-bash <(curl https://raw.githubusercontent.com/powermx/httpcustomudp/main/install-udp) 
+bash <(curl https://raw.githubusercontent.com/InvisibleWahoo/httpcustomudp/main/install-udp) 
 ```
 
 ### PowerMX
