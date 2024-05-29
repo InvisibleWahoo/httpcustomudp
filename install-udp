@@ -14,7 +14,7 @@ wget -O /root/udp/udp-custom https://github.com/powermx/httpcustomudp/raw/main/u
 chmod +x /root/udp/udp-custom
 
 echo downloading default config
-wget -O /root/udp/config.json https://raw.githubusercontent.com/powermx/httpcustomudp/main/config.json
+wget -O /root/udp/config.json https://raw.githubusercontent.com/InvisibleWahoo/httpcustomudp/main/config.json
 chmod 644 /root/udp/config.json
 
 if [ -z "$1" ]; then
